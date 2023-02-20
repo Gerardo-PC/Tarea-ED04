@@ -6,7 +6,7 @@ public class Main {
         CCuenta cuenta1;
         double saldoActual;
 
-        operativa_cuenta(null);
+        operativa_cuenta(0.0f);
     }
 
     private static void operativa_cuenta(float cantidad) {
